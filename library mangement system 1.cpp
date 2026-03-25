@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/* ================== GLOBAL BOOK STRUCTURE ================== */
+
 
 struct Book {
     int id;
