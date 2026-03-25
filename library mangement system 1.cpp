@@ -26,9 +26,7 @@ void printBook(struct Book b) {
     printf(" %d\t\t%s\t\t%s\n", b.id, b.title, b.author);
 }
 
-/* ============================================================
-   MODULE 2 : STUDENT VIEW MODULE (3 Functions)
-============================================================ */
+
 
 int isLibraryEmpty() { return (count == 0); }
 
