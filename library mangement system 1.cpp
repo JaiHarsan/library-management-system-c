@@ -44,7 +44,6 @@ void viewBooksModule() {
     displayAllBooks();
 }
 
-/* ============================================================
    MODULE 3 : STUDENT SEARCH MODULE (3 Functions)
 ============================================================ */
 
