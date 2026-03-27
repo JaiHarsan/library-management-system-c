@@ -81,8 +81,7 @@ void searchBookModule() {
     else { printHeader(); printBook(library[index]); }
 }
 
-   MODULE 4 : STUDENT LOGIN MODULE (3 Functions)
-============================================================ */
+ 
 
 void getUsername(char user[]) {
     printf("Username: ");
