@@ -104,8 +104,7 @@ int studentLogin() {
 }
 
 
-   MODULE 5 : STUDENT MENU MODULE (3 Functions)
-============================================================ */
+ 
 
 void showStudentMenuOptions() {
     printf("\n===== STUDENT MENU =====\n");
