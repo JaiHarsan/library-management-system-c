@@ -103,7 +103,7 @@ int studentLogin() {
     return (strcmp(user, "student") == 0 && strcmp(pass, "111") == 0);
 }
 
-/* ============================================================
+
    MODULE 5 : STUDENT MENU MODULE (3 Functions)
 ============================================================ */
 
