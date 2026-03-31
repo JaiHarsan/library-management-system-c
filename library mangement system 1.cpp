@@ -134,8 +134,6 @@ void studentMenu() {
     }
 }
 
-   MODULE 6 : LIBRARIAN DISPLAY MODULE (3 Functions)
-============================================================ */
 
 void libPrintLine() { 
     printf("-------------------------------------------------\n");
