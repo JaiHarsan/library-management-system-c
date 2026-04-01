@@ -151,8 +151,6 @@ void libPrintBook(struct Book b) {
 
 
    
-============================================================ */
-
 void getBookDetails(struct Book *b) {
     printf("\nEnter Book ID: ");
     scanf("%d", &b->id);
