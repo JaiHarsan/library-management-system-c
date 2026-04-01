@@ -150,7 +150,7 @@ void libPrintBook(struct Book b) {
 }
 
 
-   MODULE 7 : LIBRARIAN ADD BOOK MODULE (3 Functions)
+   
 ============================================================ */
 
 void getBookDetails(struct Book *b) {
