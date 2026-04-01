@@ -149,7 +149,7 @@ void libPrintBook(struct Book b) {
     printf(" %d\t\t%s\t\t%s\n", b.id, b.title, b.author);
 }
 
-/* ============================================================
+
    MODULE 7 : LIBRARIAN ADD BOOK MODULE (3 Functions)
 ============================================================ */
 
