@@ -182,8 +182,7 @@ void addBookModule() {
 }
 
 
-   
-============================================================ */
+
 
 int libSearchById(int id) { return searchBookById(id); }
 int libSearchByTitle(char t[]) { return searchBookByTitle(t); }
@@ -209,7 +208,7 @@ void searchBookModuleAdmin() {
     else { libPrintHeader(); libPrintBook(library[index]); }
 }
 
-
+/* ============================================================
    MODULE 9 : LIBRARIAN DELETE MODULE (3 Functions)
 ============================================================ */
 
