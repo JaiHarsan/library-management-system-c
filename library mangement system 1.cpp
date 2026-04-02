@@ -209,7 +209,7 @@ void searchBookModuleAdmin() {
     else { libPrintHeader(); libPrintBook(library[index]); }
 }
 
-/* ============================================================
+
    MODULE 9 : LIBRARIAN DELETE MODULE (3 Functions)
 ============================================================ */
 
