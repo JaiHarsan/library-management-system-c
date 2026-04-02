@@ -181,7 +181,7 @@ void addBookModule() {
     printf("\nBook added successfully!\n");
 }
 
-/* ============================================================
+
    MODULE 8 : LIBRARIAN SEARCH MODULE (3 Functions)
 ============================================================ */
 
