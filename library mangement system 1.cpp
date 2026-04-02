@@ -182,7 +182,7 @@ void addBookModule() {
 }
 
 
-   MODULE 8 : LIBRARIAN SEARCH MODULE (3 Functions)
+   
 ============================================================ */
 
 int libSearchById(int id) { return searchBookById(id); }
