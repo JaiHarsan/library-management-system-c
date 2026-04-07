@@ -234,8 +234,6 @@ void deleteBookModule() {
     printf("\nBook deleted successfully!\n");
 }
 
-   MODULE 10 : LIBRARIAN UPDATE MODULE (3 Functions)
-============================================================ */
 
 void updateBookTitle(int i) { printf("New Title: "); scanf(" %[^\n]", library[i].title); }
 void updateBookAuthor(int i) { printf("New Author: "); scanf(" %[^\n]", library[i].author); }
