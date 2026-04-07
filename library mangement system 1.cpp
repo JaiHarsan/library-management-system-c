@@ -234,7 +234,6 @@ void deleteBookModule() {
     printf("\nBook deleted successfully!\n");
 }
 
-/* ============================================================
    MODULE 10 : LIBRARIAN UPDATE MODULE (3 Functions)
 ============================================================ */
 
