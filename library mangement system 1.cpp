@@ -296,7 +296,6 @@ void librarianMenu() {
     }
 }
 
-/* ======================= MAIN PROGRAM ======================= */
 
 int main() {
     int ch;
