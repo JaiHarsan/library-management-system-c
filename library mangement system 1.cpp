@@ -255,7 +255,6 @@ void updateBookModule() {
     printf("\nBook updated successfully!\n");
 }
 
-/* ============================================================
    MODULE 11 : LIBRARIAN LOGIN + MENU MODULE (3 Functions)
 ============================================================ */
 
