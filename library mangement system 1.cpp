@@ -255,8 +255,6 @@ void updateBookModule() {
     printf("\nBook updated successfully!\n");
 }
 
-   MODULE 11 : LIBRARIAN LOGIN + MENU MODULE (3 Functions)
-============================================================ */
 
 int librarianLogin() {
     char user[20], pass[20];
